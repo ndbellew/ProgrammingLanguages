@@ -1,0 +1,4 @@
+﻿  Source.cpp
+f:\programming languages\parserproject\parserproject\source.cpp(108): warning C4018: '<': signed/unsigned mismatch
+  ParserProject.vcxproj -> F:\Programming Languages\ParserProject\Debug\ParserProject.exe
+  ParserProject.vcxproj -> F:\Programming Languages\ParserProject\Debug\ParserProject.pdb (Partial PDB)
